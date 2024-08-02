@@ -1,4 +1,5 @@
 tls_client
 pillow
+selenium
 requests
 colorama
